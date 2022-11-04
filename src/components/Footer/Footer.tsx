@@ -1,6 +1,6 @@
 import React from 'react';
-import Languages from '../../UI/Languages';
-import Logo from '../../UI/Logo';
+import Languages from '../UI/Languages';
+import Logo from '../UI/Logo';
 import { navLinks } from '../../data/data';
 
 const Footer = () => {

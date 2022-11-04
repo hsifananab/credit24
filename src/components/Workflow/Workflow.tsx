@@ -1,5 +1,5 @@
 import React from 'react';
-import Button from '../../UI/Button';
+import Button from '../UI/Button';
 import { workflow } from '../../data/data';
 
 const Workflow = () => {

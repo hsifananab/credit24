@@ -1,5 +1,5 @@
 import React from 'react';
-import Button from '../../UI/Button';
+import Button from '../UI/Button';
 
 import { conditionsItems } from '../../data/data';
 import ConditionsImage from '../../assets/images/connditions.png';

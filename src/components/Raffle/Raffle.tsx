@@ -1,5 +1,5 @@
 import React from 'react';
-import Button from '../../UI/Button';
+import Button from '../UI/Button';
 import Laptop from '../../assets/images/laptop.png';
 import Mobile from '../../assets/images/mobile.png';
 
