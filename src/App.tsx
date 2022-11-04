@@ -1,6 +1,8 @@
 import React from 'react';
 import Clients from './components/Clients/Clients';
 import Conditions from './components/Conditions/Conditions';
+import Faq from './components/Faq/Faq';
+import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
 import Navbar from './components/Navbar/Navbar';
 import Partners from './components/Partners/Partners';
@@ -21,6 +23,8 @@ function App() {
       <Reviews />
       <Clients />
       <Conditions />
+      <Faq />
+      <Footer />
     </div>
   );
 }

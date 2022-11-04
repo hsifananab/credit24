@@ -7,7 +7,7 @@ import ConditionsImage from '../../assets/images/connditions.png';
 const Conditions = () => {
   return (
     <div className="bg-white">
-      <div className="container pt-[100px]">
+      <div className="container pt-[100px] mb-[100px]">
         <div className="max-w-screen-[1200px] h-[600px] shadow-[0px_2px_7px_rgba(0,0,0,0.12)] rounded-[25px]">
           <div className="grid grid-cols-3 h-full p-[20px] pt-[47px] gap-[36px]">
             <div className="col-span-2">
