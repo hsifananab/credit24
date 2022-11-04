@@ -6,7 +6,7 @@ import Mobile from '../../assets/images/mobile.png';
 const Raffle = () => {
   return (
     <div className="bg-gradient-bg relative">
-      <div className="container py-[100px] relative">
+      <div className="container pt-[126px] pb-[165px] relative">
         <h2 className="text-[60px] font-medium mb-[17px]">Розыгрыш</h2>
         <p className="max-w-[274px] font-semibold mb-[21px]">
           Заполни заявку и получи стильный смартфон или ноутбук

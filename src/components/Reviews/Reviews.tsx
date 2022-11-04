@@ -1,17 +1,17 @@
 import React from 'react';
-import PartnersSlider from './PartnersSlider';
+import ReviewsSlider from './ReviewsSlider';
 
-const Partners = () => {
+const Reviews = () => {
   return (
     <div className="bg-white">
       <div className="container py-[100px]">
         <h3 className="font-medium text-[25px] leading-[30px] mb-[30px]">
-          Наши партнеры
+          Отзывы
         </h3>
-        <PartnersSlider />
+        <ReviewsSlider />
       </div>
     </div>
   );
 };
 
-export default Partners;
+export default Reviews;
