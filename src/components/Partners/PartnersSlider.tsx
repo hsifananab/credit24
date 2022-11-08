@@ -35,7 +35,7 @@ export const PartnersSlider = () => {
     infinite: true,
     speed: 500,
     slidesToShow: 6,
-    slidesToScroll: 2,
+    slidesToScroll: 6,
     // autoplay: true,
     // autoplaySpeed: 2000,
     cssEase: 'linear',

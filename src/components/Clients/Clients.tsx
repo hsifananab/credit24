@@ -36,8 +36,8 @@ const ClientsItem = ({ item, index }: ClientsItemProps) => {
     <div>
       <img
         src={item.toString()}
-        // className="absolute"
-        style={{ zIndex: index + 1 }}
+        className="absolute top-1/2 -translate-y-1/2  -translate-x-1/2"
+        style={{ zIndex: index + 1, left: index * 8 + 50 + '%' }}
         alt=""
       />
     </div>
